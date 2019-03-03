@@ -1,6 +1,6 @@
 ### References
 **Building a world:** _*http://gazebosim.org/tutorials?tut=build_world*_ 
-
+'<code>'
 ### Creating a world file
 ####1. Open a Gazebo simulation:
 Click on <Edit> -> <Building Editor> and you should see the following page. Note there are three areas:
