@@ -1,12 +1,12 @@
 ### References
-**Building a world:** _*http://gazebosim.org/tutorials?tut=build_world*_ 
-
+**Building a world: ** _*http://gazebosim.org/tutorials?tut=build_world*_ 
+'kkk'
 ### Creating a world file
 #### 1. Open a Gazebo simulation:
-Click on 'Edit' --> 'Building Editor' and you should see the following page. Note there are three areas:
-	> - **Platte:** You can choose models that you wish to add into the map here. 
-	> - **2D View:** The only place you make changes to the map. 
-	> - **3D View:** View only. 
+Click on **Edit** --> **Building Editor** and you should see the following page. Note there are three areas:
+- **Platte:** You can choose models that you wish to add into the map here. 
+- **2D View:** The only place you make changes to the map. 
+- **3D View:** View only. 
 ![p1](/images/p1.png)
 
 #### 2. Import a floor plan
