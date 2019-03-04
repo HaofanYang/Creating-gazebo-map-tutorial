@@ -1,7 +1,14 @@
 ## References
 **Building a world:** _*http://gazebosim.org/tutorials?tut=build_world*_ 
--------------------------
 
+## How to run
+Copy `small_room` and `volen` into your workspace and `catkin_make`
+
+Run `$ roslaunch small_room room.launch` view the resulting work that will be demonstrated in this tutorial
+
+Run '$ roslaunch volen volen.launch' to view the map of volen ground floor using the same method in this tutorial.
+
+## Tutorial
 ### 1. Open a Gazebo simulation:
 Click on `Edit` --> `Building Editor` and you should see the following page. Note there are three areas:
 - **Platte:** You can choose models that you wish to add into the map here. 
